@@ -338,5 +338,25 @@
       "view": "#",
       "code": "#"
     }
+  },
+  {
+    "name": "Ninja Survivor",
+    "desc": "A Game survival.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/NDKha-DEV/NinjaSurvival"
+    }
+  },
+  {
+    "name": "Ascendria",
+    "desc": "A Game survival.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/MinhMeo412/Ascendria"
+    }
   }
 ]
